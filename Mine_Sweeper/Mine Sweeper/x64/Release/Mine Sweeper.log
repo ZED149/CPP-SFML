@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\Mine Sweeper\Mine Sweeper\main.cpp(49,26): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Mine Sweeper\Mine Sweeper\main.cpp(57,29): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Mine Sweeper\Mine Sweeper\main.cpp(64,29): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Mine Sweeper\Mine Sweeper\main.cpp(71,29): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Mine Sweeper\Mine Sweeper\main.cpp(78,29): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,55): warning C4244:         with
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,55): warning C4244:         [
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,55): warning C4244:             T=float
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,55): warning C4244:         ]
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,41): warning C4244:         with
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,41): warning C4244:         [
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,41): warning C4244:             T=float
+D:\Mine Sweeper\Mine Sweeper\main.cpp(110,41): warning C4244:         ]
+  minesweeper.cpp
+  source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 234 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mine Sweeper.vcxproj -> D:\Mine Sweeper\x64\Release\Mine Sweeper.exe
